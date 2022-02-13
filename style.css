@@ -9,7 +9,7 @@
      font-size: 50px;
      line-height: inherit;
      letter-spacing: 1.5px;
-     width: 375px;
+     width:100%;
      text-align: center;
  }
  .intro ul li{
@@ -40,4 +40,62 @@
      background: black;
      transition: 0.5s;
  }
-    
+ .knowWebdesign{
+     border:  1px solid rgba(47, 80, 37, 0.397);
+     border-radius: 15px;
+ }
+ .knowWebdesign button{
+    text-decoration: none;
+    border: none;
+    text-align: center;
+    margin-left: 20px;
+    color: white;
+    background: blueviolet;
+    border-radius: 18px;
+    width: 130px;
+    padding: 5px;
+    font-size: 17px;
+    margin-top: 12px;
+ }  
+ .knowWebdesign button:hover{
+    color: white;
+    background: black;
+    transition: 0.5s;
+ }
+.knowWebdesign2{
+    border:  1px solid rgba(47, 80, 37, 0.397);
+    border-radius: 15px;
+    margin-bottom: 10px;
+}
+.knowWebdesign2 button{
+    text-decoration: none;
+    border: none;
+    text-align: center;
+    margin-left: 20px;
+    color: white;
+    background: blueviolet;
+    border-radius: 18px;
+    width: 130px;
+    padding: 5px;
+    font-size: 17px;
+    margin-top: 12px;
+ }  
+ .knowWebdesign2 button:hover{
+    color: white;
+    background: black;
+    transition: 0.5s;
+ }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
