@@ -1,3 +1,6 @@
+.container{
+    background-color: aliceblue;
+}
 .header{
     background-image: url("./img/java.jpg");
     margin-top: 40px;
@@ -16,7 +19,6 @@
      list-style: none;
      float: left;
      width: 100px;
-     border-right: 1px solid black;
      text-align: center;
      font-size: 25px;
      cursor: pointer;
@@ -41,8 +43,7 @@
      transition: 0.5s;
  }
  .knowWebdesign{
-     border:  1px solid rgba(47, 80, 37, 0.397);
-     border-radius: 15px;
+    border-radius: 15px;
  }
  .knowWebdesign button{
     text-decoration: none;
@@ -63,7 +64,6 @@
     transition: 0.5s;
  }
 .knowWebdesign2{
-    border:  1px solid rgba(47, 80, 37, 0.397);
     border-radius: 15px;
     margin-bottom: 10px;
 }
@@ -86,9 +86,27 @@
     transition: 0.5s;
  }
 
-
-
-
+.knowWebdesign3 button{
+    text-decoration: none;
+    border: none;
+    text-align: center;
+    margin-left: 20px;
+    color: white;
+    background: blueviolet;
+    border-radius: 18px;
+    width: 130px;
+    padding: 5px;
+    font-size: 17px;
+    margin-top: 12px;
+ }  
+ .knowWebdesign3 button:hover{
+    color: white;
+    background: black;
+    transition: 0.5s;
+ }
+.learnme p{
+    background-color: rgba(191, 241, 237, 0.76);
+}  
 
 
 
