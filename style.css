@@ -32,10 +32,13 @@
      text-align: center;
      margin-left: 20px;
      background: orange;
-     border-radius: 18px;
-     width: 90px;
-     padding: 5px;
+     border-radius: 27px;
+     width: 112px;
+     padding: 8px;
      font-size: 17px;
+ }
+ .intro a i {
+     font-size: 25px;
  }
  .intro a button:hover{
      color: white;
@@ -47,11 +50,11 @@
  }
  .knowWebdesign button{
     text-decoration: none;
-    border: none;
+    border:none;
     text-align: center;
     margin-left: 20px;
     color: white;
-    background: blueviolet;
+    background: rgb(207, 23, 23);
     border-radius: 18px;
     width: 130px;
     padding: 5px;
@@ -69,11 +72,11 @@
 }
 .knowWebdesign2 button{
     text-decoration: none;
-    border: none;
+    border:none;
     text-align: center;
     margin-left: 20px;
     color: white;
-    background: blueviolet;
+    background: rgb(207, 23, 23);
     border-radius: 18px;
     width: 130px;
     padding: 5px;
@@ -88,11 +91,11 @@
 
 .knowWebdesign3 button{
     text-decoration: none;
-    border: none;
+    border:none;
     text-align: center;
     margin-left: 20px;
     color: white;
-    background: blueviolet;
+    background: rgb(207, 23, 23);
     border-radius: 18px;
     width: 130px;
     padding: 5px;
@@ -107,9 +110,22 @@
 .learnme p{
     background-color: rgba(191, 241, 237, 0.76);
 }  
-
-
-
+.row .col-lg-6 button{
+    text-decoration: none;
+    border:none;
+    text-align: center;
+    color: white;
+    background: #0a58ca;
+    border-radius: 35px;
+    width: 232px;
+    padding: 4px;
+    margin-top: 5px;
+}
+.row .col-lg-6 button:hover{
+    color: white;
+    background: black;
+    transition: 0.2s ;
+}
 
 
 
