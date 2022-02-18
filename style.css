@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Archivo+Narrow:ital,wght@0,400;0,500;1,400;1,500&family=Baloo+Da+2:wght@400;500;600;700&family=Chivo:ital,wght@0,700;1,400&family=Hind+Siliguri:wght@300;400;500;600;700&family=Mulish:ital,wght@0,200;0,300;0,400;0,600;0,700;0,800;1,200;1,300;1,400;1,600;1,700;1,800&family=Oswald:wght@200;300;400;500;600;700&display=swap');
 .container{
     background-color: aliceblue;
 }
@@ -14,6 +15,7 @@
      letter-spacing: 1.5px;
      width:100%;
      text-align: center;
+     text-shadow: 2px 2px #d3617c38;
  }
  .intro ul li{
      list-style: none;
@@ -107,7 +109,7 @@
     background: black;
     transition: 0.5s;
  }  
-.ordernow .col-lg-3 button{
+.ordernow .col-lg-12 button{
     text-decoration: none;
     border:none;
     text-align: center;
@@ -118,24 +120,78 @@
     padding: 4px;
     margin-top: 5px;
 }
-.ordernow .col-lg-3 button:hover{
+.ordernow .col-lg-12 button:hover{
     color: white;
     background: black;
     transition: 0.2s ;
 }
-.ordernow .col-lg-3 ul{
+.ordernow .col-lg-12 ul{
     list-style: none;
     color: black;
 }
 .col-lg-6 .exper{
-    background-image: linear-gradient(to bottom, rgba(74, 98, 238, 0.52), rgba(117, 19, 93, 0.73)),url("./img/header1.jpg");
-    color:white;
+    background-image: linear-gradient(to bottom, rgb(135 241 168), rgba(117, 19, 93, 0.73)),url(./img/header1.jpg);
+    color: #210505db;
     height: 490px;
     border-radius: 30px;
 }
-
-
-
-
-
-
+.col-lg-4 .bg1{
+    background-image: linear-gradient(to bottom, rgb(68 150 98), rgb(69 39 159 / 73%)),url(./img/html5.png);
+    color: white;
+    width: 390px;
+    height: 295px;
+    font-family: 'Oswald', sans-serif;
+    margin-bottom: 10px;
+    box-shadow: 0 4px 8px 0 rgb(16 6 6 / 82%), 0 6px 20px 0 rgb(0 0 0 / 19%);
+}
+.col-lg-4 .bg1 h3{
+    padding-top: 78px;
+    font-size: 42px;
+}
+.col-lg-4 .bg1 a button{
+    border: none;
+    width: 127px;
+    background: #ffffff;
+    border-radius: 30px;
+    padding: 5px;
+    font-size: 20px;
+}
+.col-lg-4 .bg1 p{
+    letter-spacing: 0.5px;
+    font-size: 20px;
+}
+.col-lg-4 .bg1 a button:hover{
+    background: black;
+    color: white;
+    transition: 0.5s;
+}
+.col-lg-4 .bg2{
+    background-image: linear-gradient(to bottom, rgb(68 150 98), rgb(69 39 159 / 73%)),url(./img/graphic.jpg);
+    color: white;
+    width: 390px;
+    height: 295px;
+    font-family: 'Oswald', sans-serif;
+    margin-bottom: 10px;
+    box-shadow: 0 4px 8px 0 rgb(16 6 6 / 82%), 0 6px 20px 0 rgb(0 0 0 / 19%);
+}
+.col-lg-4 .bg2 h3{
+    padding-top: 25px;
+    font-size: 42px;
+}
+.col-lg-4 .bg2 a button{
+    border: none;
+    width: 127px;
+    background: #ffffff;
+    border-radius: 30px;
+    padding: 5px;
+    font-size: 20px;
+}
+.col-lg-4 .bg2 p{
+    letter-spacing: 0.5px;
+    font-size: 20px;
+}
+.col-lg-4 .bg2 a button:hover{
+    background: black;
+    color: white;
+    transition: 0.5s;
+}
