@@ -130,22 +130,23 @@
     color: black;
 }
 .col-lg-6 .exper{
-    background-image: linear-gradient(to bottom, rgb(135 241 168), rgba(117, 19, 93, 0.73)),url(./img/header1.jpg);
-    color: #210505db;
+    background-image: linear-gradient(to bottom, rgb(27 13 30), rgb(38 23 255 / 73%)),url(./img/header1.jpg);
     height: 490px;
-    border-radius: 30px;
-}
-.col-lg-4 .bg1{
-    background-image: linear-gradient(to bottom, rgb(68 150 98), rgb(69 39 159 / 73%)),url(./img/html5.png);
+    border-radius: 5px;
     color: white;
-    width: 390px;
-    height: 295px;
+}
+
+
+.col-lg-4 .bg1{
+    background-image: linear-gradient(to bottom, rgb(160 99 171), rgb(44 60 177));
+    color: white;
     font-family: 'Oswald', sans-serif;
     margin-bottom: 10px;
     box-shadow: 0 4px 8px 0 rgb(16 6 6 / 82%), 0 6px 20px 0 rgb(0 0 0 / 19%);
+    height: 300px;
 }
 .col-lg-4 .bg1 h3{
-    padding-top: 78px;
+    padding-top: 30px;
     font-size: 42px;
 }
 .col-lg-4 .bg1 a button{
@@ -156,26 +157,26 @@
     padding: 5px;
     font-size: 20px;
 }
+.col-lg-4 .bg1 a button:hover{
+    color: white;
+    background: black;
+    transition: 0.5s;
+}
 .col-lg-4 .bg1 p{
     letter-spacing: 0.5px;
     font-size: 20px;
 }
-.col-lg-4 .bg1 a button:hover{
-    background: black;
-    color: white;
-    transition: 0.5s;
-}
+
 .col-lg-4 .bg2{
-    background-image: linear-gradient(to bottom, rgb(68 150 98), rgb(69 39 159 / 73%)),url(./img/graphic.jpg);
+    background-image: linear-gradient(to bottom, rgb(122 89 112), rgb(44 60 177));
     color: white;
-    width: 390px;
-    height: 295px;
     font-family: 'Oswald', sans-serif;
-    margin-bottom: 10px;
+    margin-bottom: 0px;
     box-shadow: 0 4px 8px 0 rgb(16 6 6 / 82%), 0 6px 20px 0 rgb(0 0 0 / 19%);
+    height: 300px;
 }
 .col-lg-4 .bg2 h3{
-    padding-top: 25px;
+    padding-top: 30px;
     font-size: 42px;
 }
 .col-lg-4 .bg2 a button{
@@ -186,12 +187,159 @@
     padding: 5px;
     font-size: 20px;
 }
+.col-lg-4 .bg2 a button:hover{
+    color: white;
+    background: black;
+    transition: 0.5s;
+}
 .col-lg-4 .bg2 p{
     letter-spacing: 0.5px;
     font-size: 20px;
 }
-.col-lg-4 .bg2 a button:hover{
-    background: black;
+
+.col-lg-4 .bg3{
+    background-image: linear-gradient(to bottom, rgb(142 207 135), rgb(44 60 177));
     color: white;
+    font-family: 'Oswald', sans-serif;
+    margin-bottom: 0px;
+    box-shadow: 0 4px 8px 0 rgb(16 6 6 / 82%), 0 6px 20px 0 rgb(0 0 0 / 19%);
+    height: 300px;
+}
+.col-lg-4 .bg3 h3{
+    padding-top: 30px;
+    font-size: 42px;
+}
+.col-lg-4 .bg3 a button{
+    border: none;
+    width: 127px;
+    background: #ffffff;
+    border-radius: 30px;
+    padding: 5px;
+    font-size: 20px;
+}
+.col-lg-4 .bg3 a button:hover{
+    color: white;
+    background: black;
     transition: 0.5s;
 }
+.col-lg-4 .bg3 p{
+    letter-spacing: 0.5px;
+    font-size: 20px;
+} 
+
+.col-lg-4 .bg4{
+    background-image: linear-gradient(to bottom, rgb(207 135 148), rgb(181 0 255));
+    color: white;
+    font-family: 'Oswald', sans-serif;
+    margin-bottom: 0px;
+    box-shadow: 0 4px 8px 0 rgb(16 6 6 / 82%), 0 6px 20px 0 rgb(0 0 0 / 19%);
+    height: 300px;
+}
+.col-lg-4 .bg4 h3{
+    padding-top: 30px;
+    font-size: 42px;
+}
+.col-lg-4 .bg4 a button{
+    border: none;
+    width: 127px;
+    background: #ffffff;
+    border-radius: 30px;
+    padding: 5px;
+    font-size: 20px;
+}
+.col-lg-4 .bg4 a button:hover{
+    color: white;
+    background: black;
+    transition: 0.5s;
+}
+.col-lg-4 .bg4 p{
+    letter-spacing: 0.5px;
+    font-size: 20px;
+}
+
+.col-lg-4 .bg5{
+    background-image: linear-gradient(to bottom, rgb(28 11 16), rgb(44 60 177));
+    color: white;
+    font-family: 'Oswald', sans-serif;
+    margin-bottom: 0px;
+    box-shadow: 0 4px 8px 0 rgb(16 6 6 / 82%), 0 6px 20px 0 rgb(0 0 0 / 19%);
+    height: 300px;
+}
+.col-lg-4 .bg5 h3{
+    padding-top: 30px;
+    font-size: 42px;
+}
+.col-lg-4 .bg5 a button{
+    border: none;
+    width: 127px;
+    background: #ffffff;
+    border-radius: 30px;
+    padding: 5px;
+    font-size: 20px;
+}
+.col-lg-4 .bg5 a button:hover{
+    color: white;
+    background: black;
+    transition: 0.5s;
+}
+.col-lg-4 .bg5 p{
+    letter-spacing: 0.5px;
+    font-size: 20px;
+}
+
+.col-lg-4 .bg6{
+    background-image: linear-gradient(to bottom, rgb(237 40 98 / 68%), rgb(44 60 177));
+    color: white;
+    font-family: 'Oswald', sans-serif;
+    margin-bottom: 0px;
+    box-shadow: 0 4px 8px 0 rgb(16 6 6 / 82%), 0 6px 20px 0 rgb(0 0 0 / 19%);
+    height: 300px;
+}
+.col-lg-4 .bg6 h3{
+    padding-top: 30px;
+    font-size: 42px;
+}
+.col-lg-4 .bg6 a button{
+    border: none;
+    width: 127px;
+    background: #ffffff;
+    border-radius: 30px;
+    padding: 5px;
+    font-size: 20px;
+}
+.col-lg-4 .bg6 a button:hover{
+    color: white;
+    background: black;
+    transition: 0.5s;
+}
+.col-lg-4 .bg6 p{
+    letter-spacing: 0.5px;
+    font-size: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
