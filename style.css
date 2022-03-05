@@ -50,6 +50,7 @@
  .knowWebdesign{
     border-radius: 15px;
  }
+ 
  .knowWebdesign button{
     text-decoration: none;
     border:none;
@@ -108,6 +109,9 @@
     color: white;
     background: black;
     transition: 0.5s;
+ }
+ .knowWebdesign3 img{
+    background-image: linear-gradient(to bottom, rgb(122 89 112), rgb(44 60 177));;
  }  
 .ordernow .col-lg-12 button{
     text-decoration: none;
@@ -130,10 +134,11 @@
     color: black;
 }
 .col-lg-6 .exper{
-    background-image: linear-gradient(to bottom, rgb(27 13 30), rgb(38 23 255 / 73%)),url(./img/header1.jpg);
+    background-image: linear-gradient(to bottom, rgb(1 119 165), rgb(194 17 179 / 73%)),url(./img/header1.jpg);
     height: 490px;
     border-radius: 5px;
     color: white;
+    box-shadow: 0 4px 8px 0 rgb(255 0 141 / 49%), 0 6px 20px 0 rgb(0 0 0 / 71%);
 }
 
 
@@ -233,10 +238,10 @@
     font-family: 'Oswald', sans-serif;
     margin-bottom: 0px;
     box-shadow: 0 4px 8px 0 rgb(16 6 6 / 82%), 0 6px 20px 0 rgb(0 0 0 / 19%);
-    height: 300px;
+    height: 340px;
 }
 .col-lg-4 .bg4 h3{
-    padding-top: 30px;
+    padding-top: 58px;
     font-size: 42px;
 }
 .col-lg-4 .bg4 a button{
@@ -263,10 +268,10 @@
     font-family: 'Oswald', sans-serif;
     margin-bottom: 0px;
     box-shadow: 0 4px 8px 0 rgb(16 6 6 / 82%), 0 6px 20px 0 rgb(0 0 0 / 19%);
-    height: 300px;
+    height: 340px;
 }
 .col-lg-4 .bg5 h3{
-    padding-top: 30px;
+    padding-top: 60px;
     font-size: 42px;
 }
 .col-lg-4 .bg5 a button{
@@ -296,7 +301,7 @@
     height: 340px;
 }
 .col-lg-4 .bg6 h3{
-    padding-top: 30px;
+    padding-top: 59px;
     font-size: 42px;
 }
 .col-lg-4 .bg6 a button{

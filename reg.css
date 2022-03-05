@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Asap', sans-serif;
+}
+html,body{
+    display: grid;
+    height: 100%;
+    place-items: center;
+    background: linear-gradient(to bottom, rgb(229 128 158), rgb(24 42 181));
+}
+.container{
+    width: 500px;
+    margin: 20px 0px;
+}
