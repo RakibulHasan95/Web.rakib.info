@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Archivo+Narrow:ital,wght@0,400;0,500;1,400;1,500&family=Baloo+Da+2:wght@400;500;600;700&family=Chivo:ital,wght@0,700;1,400&family=Hind+Siliguri:wght@300;400;500;600;700&family=Mulish:ital,wght@0,200;0,300;0,400;0,600;0,700;0,800;1,200;1,300;1,400;1,600;1,700;1,800&family=Oswald:wght@200;300;400;500;600;700&display=swap');
 .container{
-    background-color: aliceblue;
+    background-color:#0c0b44fa;
+    color: white;
 }
 .header{
     background-image: linear-gradient(to bottom, rgba(53, 73, 185, 0.52), rgba(117, 19, 93, 0.73)),url("./img/java.jpg");
@@ -57,7 +58,7 @@
     text-align: center;
     margin-left: 20px;
     color: white;
-    background: rgb(2, 2, 65);
+    background: rgb(58 0 255);
     border-radius: 18px;
     width: 130px;
     padding: 5px;
@@ -78,8 +79,8 @@
     border:none;
     text-align: center;
     margin-left: 20px;
-    color: white;
-    background: rgb(2, 2, 65);
+    color: #ffffff;
+    background: rgb(11 11 250);
     border-radius: 18px;
     width: 130px;
     padding: 5px;
@@ -98,7 +99,7 @@
     text-align: center;
     margin-left: 20px;
     color: white;
-    background: rgb(2, 2, 65);
+    background: rgb(6 6 255);
     border-radius: 18px;
     width: 130px;
     padding: 5px;
@@ -143,11 +144,11 @@
 
 
 .col-lg-4 .bg1{
-    background-image: linear-gradient(to bottom, rgb(160 99 171), rgb(44 60 177));
+    background-image: linear-gradient(to bottom, rgb(203 41 232), rgb(44 60 177));
     color: white;
     font-family: 'Oswald', sans-serif;
     margin-bottom: 10px;
-    box-shadow: 0 4px 8px 0 rgb(16 6 6 / 82%), 0 6px 20px 0 rgb(0 0 0 / 19%);
+    box-shadow: 0 4px 8px 0 rgb(52 131 255 / 82%), 0 6px 20px 0 rgb(255 124 124);
     height: 300px;
 }
 .col-lg-4 .bg1 h3{
@@ -177,7 +178,7 @@
     color: white;
     font-family: 'Oswald', sans-serif;
     margin-bottom: 0px;
-    box-shadow: 0 4px 8px 0 rgb(16 6 6 / 82%), 0 6px 20px 0 rgb(0 0 0 / 19%);
+    box-shadow: 0 4px 8px 0 rgb(235 3 177 / 82%), 0 6px 20px 0 rgb(212 9 237 / 19%);
     height: 300px;
 }
 .col-lg-4 .bg2 h3{
@@ -207,7 +208,7 @@
     color: white;
     font-family: 'Oswald', sans-serif;
     margin-bottom: 0px;
-    box-shadow: 0 4px 8px 0 rgb(16 6 6 / 82%), 0 6px 20px 0 rgb(0 0 0 / 19%);
+    box-shadow: 0 4px 8px 0 rgb(138 119 228 / 82%), 0 6px 20px 0 rgb(42 54 158);
     height: 300px;
 }
 .col-lg-4 .bg3 h3{
@@ -237,7 +238,7 @@
     color: white;
     font-family: 'Oswald', sans-serif;
     margin-bottom: 0px;
-    box-shadow: 0 4px 8px 0 rgb(16 6 6 / 82%), 0 6px 20px 0 rgb(0 0 0 / 19%);
+    box-shadow: 0 4px 8px 0 rgb(104 210 0 / 82%), 0 6px 20px 0 rgb(172 36 36 / 19%);
     height: 340px;
 }
 .col-lg-4 .bg4 h3{
@@ -267,7 +268,7 @@
     color: white;
     font-family: 'Oswald', sans-serif;
     margin-bottom: 0px;
-    box-shadow: 0 4px 8px 0 rgb(16 6 6 / 82%), 0 6px 20px 0 rgb(0 0 0 / 19%);
+    box-shadow: 0 4px 8px 0 rgb(255 118 118 / 82%), 0 6px 20px 0 rgb(49 67 145 / 19%);
     height: 340px;
 }
 .col-lg-4 .bg5 h3{
@@ -297,7 +298,7 @@
     color: white;
     font-family: 'Oswald', sans-serif;
     margin-bottom: 0px;
-    box-shadow: 0 4px 8px 0 rgb(16 6 6 / 82%), 0 6px 20px 0 rgb(0 0 0 / 19%);
+    box-shadow: 0 4px 8px 0 rgb(78 93 255), 0 6px 20px 0 rgb(0 0 0 / 19%);
     height: 340px;
 }
 .col-lg-4 .bg6 h3{
