@@ -322,8 +322,16 @@
     letter-spacing: 0.5px;
     font-size: 20px;
 }
-
-
+.col-lg-6 .location iframe{
+    height: 353px;
+    width: 95%;
+    margin: 4px 4px;
+}
+.col-lg-6 .location2 iframe{
+    height: 353px;
+    width: 95%;
+    margin: 4px 4px;
+}
 
 
 
