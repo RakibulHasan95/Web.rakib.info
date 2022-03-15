@@ -123,7 +123,7 @@
     border-radius: 35px;
     width: 232px;
     padding: 4px;
-    margin-top: 5px;
+    margin-top: 20px;
 }
 .ordernow .col-lg-12 button:hover{
     color: white;
@@ -149,7 +149,7 @@
     font-family: 'Oswald', sans-serif;
     margin-bottom: 10px;
     box-shadow: 0 4px 8px 0 rgb(52 131 255 / 82%), 0 6px 20px 0 rgb(255 124 124);
-    height: 300px;
+    height: 340px;
 }
 .col-lg-4 .bg1 h3{
     padding-top: 30px;
@@ -179,7 +179,7 @@
     font-family: 'Oswald', sans-serif;
     margin-bottom: 0px;
     box-shadow: 0 4px 8px 0 rgb(235 3 177 / 82%), 0 6px 20px 0 rgb(212 9 237 / 19%);
-    height: 300px;
+    height: 340px;
 }
 .col-lg-4 .bg2 h3{
     padding-top: 30px;
@@ -209,7 +209,7 @@
     font-family: 'Oswald', sans-serif;
     margin-bottom: 0px;
     box-shadow: 0 4px 8px 0 rgb(138 119 228 / 82%), 0 6px 20px 0 rgb(42 54 158);
-    height: 300px;
+    height: 340px;
 }
 .col-lg-4 .bg3 h3{
     padding-top: 30px;
