@@ -149,7 +149,7 @@
     font-family: 'Oswald', sans-serif;
     margin-bottom: 10px;
     box-shadow: 0 4px 8px 0 rgb(52 131 255 / 82%), 0 6px 20px 0 rgb(255 124 124);
-    height: 340px;
+    height: 380px;
 }
 .col-lg-4 .bg1 h3{
     padding-top: 30px;
@@ -179,7 +179,7 @@
     font-family: 'Oswald', sans-serif;
     margin-bottom: 0px;
     box-shadow: 0 4px 8px 0 rgb(235 3 177 / 82%), 0 6px 20px 0 rgb(212 9 237 / 19%);
-    height: 340px;
+    height: 380px;
 }
 .col-lg-4 .bg2 h3{
     padding-top: 30px;
@@ -209,7 +209,7 @@
     font-family: 'Oswald', sans-serif;
     margin-bottom: 0px;
     box-shadow: 0 4px 8px 0 rgb(138 119 228 / 82%), 0 6px 20px 0 rgb(42 54 158);
-    height: 340px;
+    height: 380px;
 }
 .col-lg-4 .bg3 h3{
     padding-top: 30px;
@@ -239,7 +239,7 @@
     font-family: 'Oswald', sans-serif;
     margin-bottom: 0px;
     box-shadow: 0 4px 8px 0 rgb(104 210 0 / 82%), 0 6px 20px 0 rgb(172 36 36 / 19%);
-    height: 340px;
+    height: 380px;
 }
 .col-lg-4 .bg4 h3{
     padding-top: 58px;
@@ -269,7 +269,7 @@
     font-family: 'Oswald', sans-serif;
     margin-bottom: 0px;
     box-shadow: 0 4px 8px 0 rgb(255 118 118 / 82%), 0 6px 20px 0 rgb(49 67 145 / 19%);
-    height: 340px;
+    height: 380px;
 }
 .col-lg-4 .bg5 h3{
     padding-top: 60px;
@@ -299,7 +299,7 @@
     font-family: 'Oswald', sans-serif;
     margin-bottom: 0px;
     box-shadow: 0 4px 8px 0 rgb(78 93 255), 0 6px 20px 0 rgb(0 0 0 / 19%);
-    height: 340px;
+    height: 380px;
 }
 .col-lg-4 .bg6 h3{
     padding-top: 59px;
@@ -324,12 +324,12 @@
 }
 .col-lg-6 .location iframe{
     height: 353px;
-    width: 95%;
+    width: 99%;
     margin: 4px 4px;
 }
 .col-lg-6 .location2 iframe{
     height: 353px;
-    width: 95%;
+    width: 99%;
     margin: 4px 4px;
 }
 
